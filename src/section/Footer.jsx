@@ -12,22 +12,22 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: <GithubIcon className="w-6 h-6 hover:text-gray-300 transition-colors" />,
-      href: 'https://github.com/ruchibhilare',
+      href: 'https://github.com/its-ruchi?tab=repositories',
       label: 'GitHub'
     },
     {
       icon: <LinkedinIcon className="w-6 h-6 hover:text-blue-400 transition-colors" />,
-      href: 'https://www.linkedin.com/in/ruchibhilare/',
+      href: 'https://www.linkedin.com/in/ruchi-bhilare-87738826b/',
       label: 'LinkedIn'
     },
     {
       icon: <TwitterIcon className="w-6 h-6 hover:text-blue-500 transition-colors" />,
-      href: 'https://twitter.com/ruchibhilare',
+      href: '',
       label: 'Twitter'
     },
     {
       icon: <InstagramIcon className="w-6 h-6 hover:text-pink-500 transition-colors" />,
-      href: 'https://instagram.com/ruchibhilare',
+      href: 'https://www.instagram.com/its_ruchi.b/',
       label: 'Instagram'
     }
   ];

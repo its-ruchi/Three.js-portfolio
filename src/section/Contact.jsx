@@ -4,9 +4,9 @@ import Button from '../components/Button.jsx';
 const Contact = () => {
   const [contactInfo] = useState({
     email: 'ruchibhilare@gmail.com',
-    phone: '+91 123 456 7890',
-    linkedin: 'https://www.linkedin.com/in/ruchibhilare/',
-    github: 'https://github.com/ruchibhilare',
+    
+    linkedin: 'https://www.linkedin.com/in/ruchi-bhilare-87738826b/',
+    github: 'https://github.com/its-ruchi?tab=repositories',
   });
 
   const handleSendMessage = () => {
@@ -33,9 +33,7 @@ const Contact = () => {
               <span className="font-medium">Email:</span> {contactInfo.email}
             </p>
             
-            <p className="contact-info">
-              <span className="font-medium">Phone:</span> {contactInfo.phone}
-            </p>
+           
             
             <p className="contact-info">
               <span className="font-medium">LinkedIn:</span>{' '}

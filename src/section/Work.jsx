@@ -7,13 +7,13 @@ const Work = () => {
       title: '3D Portfolio Website',
       description: 'Built a dynamic 3D portfolio using React, Three.js, and Tailwind CSS.',
       image: 'assets/project1.png',
-      link: 'https://github.com/ruchibhilare/3d-portfolio'
+      link: 'https://github.com/its-ruchi/Three.js-portfolio'
     },
     {
-      title: 'Tech Tips Website',
+      title: 'TechDev Website',
       description: 'Developed a responsive website to share tech tips and insights using Next.js and Tailwind CSS.',
       image: 'assets/project2.png',
-      link: 'https://techtips.example.com'
+      link: 'https://github.com/its-ruchi/Techdev'
     },
     {
       title: 'Social Media App',
